@@ -16,4 +16,4 @@ published: true
 
 Registration is now open for Howard County Police Department&#8217;s Youth Police Academy, a free, one-week, overnight academy designed to help young people explore career and leadership opportunities, life skills and character education.
 
-This year&#8217;s Youth Police Academy will be held July 30-31. Participants spend the week participating in law enforcement classroom instruction, practical applications and scenarios. More information is available <a href="http://www.countyofhowardmd.us/policeyouth.htm" target="new">online</a>.
+This year&#8217;s Youth Police Academy will be held July 19-25. Participants spend the week participating in law enforcement classroom instruction, practical applications and scenarios. More information is available <a href="http://www.countyofhowardmd.us/policeyouth.htm" target="new">online</a>.
