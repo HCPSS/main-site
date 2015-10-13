@@ -23,7 +23,7 @@ Read more about us and our graduating students:
 	<li><a href="/f/aboutus/profile.pdf">2013-14 Profile of the HCPSS <img src="/f/images/bullet-pdf.gif" alt="(PDF)" width="16" height="16" align="bottom" border="0" /></a></li>
 	<li><a href="/academics/class-profile/">Class of 2013 Profile</a></li>
 </ul>
-<h2>5-Year Strategic Plan</h2>
+<h2>10-Year Strategic Plan</h2>
 <ul>
 	<li><a href="/f/aboutus/strategicplan.pdf">Vision 2018: Fulfilling the Promise of Preparation <img src="/f/images/bullet-pdf.gif" alt="(PDF)" width="16" height="16" align="bottom" border="0" /></a></li>
 </ul>
