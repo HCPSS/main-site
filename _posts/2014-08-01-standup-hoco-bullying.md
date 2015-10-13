@@ -11,7 +11,7 @@ permalink: >
   https://main.hocoschools.org/news-posts/2014/08/standup-hoco-bullying/
 published: true
 ---
-<em>Wednesday, April 9, 6:30-8:30 p.m. — Gary J. Arthur Community Center, 2400 Rte. 97, Cooksville, MD</em>
+<em>Wednesday, December 3, 6:30-8:30 p.m. — Gary J. Arthur Community Center, 2400 Rte. 97, Cooksville, MD</em>
 
 StandUp HoCo invites parents to take part in facilitated conversations about bullying. The information gathered will be used to identify community needs for training and resources.
 
